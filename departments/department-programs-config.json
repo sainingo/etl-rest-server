@@ -212,5 +212,23 @@
         "name": "RETENTION PROGRAM"
       }
     ]
+  },
+  "uud7": {
+    "name": "OPHTHALMOLOGY",
+    "programs": [
+      {
+        "uuid": "781d8b40-1359-11df-a1f1-0026b9348838",
+        "name": "OPHTHALMOLOGY PROGRAM"
+      }
+    ]
+  },
+  "uud8": {
+    "name": "KP",
+    "programs": [
+      {
+        "uuid": "317f07b1-23f5-43f2-82bc-57a3c3790698",
+        "name": "KP PROGRAM"
+      }
+    ]
   }
 }
